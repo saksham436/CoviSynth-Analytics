@@ -1,5 +1,5 @@
 #  PandemIQ covid-19 Vision
-# Meaning & Concept
+
 
 # PandemIQ Vision combines “Pandemic” and “IQ” (intelligence) with “Vision” — suggesting a smart, insightful way to analyze pandemic data.
 
