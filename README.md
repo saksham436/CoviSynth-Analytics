@@ -1,4 +1,4 @@
-COVID-19 Data Analysis — Project Overview
+# COVID-19 Data Analysis — Project Overview
 
 This project is a Python-based data analysis that explores key trends in COVID-19 statistics — including confirmed cases, deaths, and recoveries — and uses visualizations to make those trends easy to understand. It uses popular Python data science libraries to process and plot the data. 
 GeeksforGeeks
