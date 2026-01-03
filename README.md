@@ -25,8 +25,7 @@ Run the script:
 python covid_19_data_analysis.py
 Explore the generated visualizations and analysis within the script.
 
-Data Source
-The COVID-19 data used in this analysis is sourced from [insert source name or link].
+
 
 Analysis Highlights
 Deaths Trend Analysis: [Brief description of the deaths trend analysis]
