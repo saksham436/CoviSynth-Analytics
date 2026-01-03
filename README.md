@@ -1,7 +1,7 @@
 #  PandemIQ covid-19 Vision
-Meaning & Concept
+# Meaning & Concept
 
-PandemIQ Vision combines “Pandemic” and “IQ” (intelligence) with “Vision” — suggesting a smart, insightful way to analyze pandemic data.
+# PandemIQ Vision combines “Pandemic” and “IQ” (intelligence) with “Vision” — suggesting a smart, insightful way to analyze pandemic data.
 
 “PandemIQ” implies intelligent pandemic analysis — not just raw numbers, but understanding patterns, trends, and insights in COVID-19 data.
 
@@ -14,7 +14,7 @@ This name positions the project as a data-driven analytical system with intellig
 
 PandemIQ Vision is a comprehensive COVID-19 data analysis and visualization project designed to help researchers, policymakers, and the general public understand pandemic trends using advanced analytics techniques.
 
- Key Features
+# Key Features
 
 ✔ Trend Analysis: Shows how key indicators (cases, deaths, recoveries) evolve over time.
 
